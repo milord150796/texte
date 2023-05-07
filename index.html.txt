@@ -12,7 +12,7 @@
 
 <h1>Welcome to my website!</h1>
 
-<p>my name igor .</p>
+<p>go go go </p>
 
 </body>
 
